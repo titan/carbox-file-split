@@ -1,4 +1,4 @@
-package com.fengchaohuzhu.box.reader
+package box
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
